@@ -1,2 +1,2 @@
-# kickstarter-analysis
-Week 1 Challenge- Performing analysis on Kickstarter data to uncover trends
+# An Analysis of Kickstarter Campaigns
+Performing analysis on Kickstarter data to uncover trends
