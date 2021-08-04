@@ -15,7 +15,7 @@ You’ll then submit a written report based on your analysis and the visualizati
 2. Challenges or difficulties that were encountered, and how they were overcome, are well explained. If there were no difficulties, describe any possible challenges or difficulties that could be encountered (2 pt).
 
 ### Analysis of Outcomes Based on Launch Date
-![Theater_Outcomes_vs_Launch](/Users/aswitha/Desktop/Data_Analytics/Analysis_Projects/Project1/Challenge1/Resources/Theater_Outcomes_vs_Launch)
+![Theater_Outcomes_vs_Launch](/Users/aswitha/Desktop/Data_Analytics/Analysis_Projects/Project1/Challenge1/Resources/Theater_Outcomes_vs_Launch.png)
 
 ### Analysis of Outcomes Based on Goals
 
