@@ -15,14 +15,16 @@ You’ll then submit a written report based on your analysis and the visualizati
 2. Challenges or difficulties that were encountered, and how they were overcome, are well explained. If there were no difficulties, describe any possible challenges or difficulties that could be encountered (2 pt).
 
 ### Analysis of Outcomes Based on Launch Date
-![Theater_Outcomes_vs_Launch](/Users/aswitha/Desktop/Data_Analytics/Analysis_Projects/Project1/Challenge1/Resources/Theater_Outcomes_vs_Launch.png)
+---
 
 ![Outcomes_vs_Goals](https://user-images.githubusercontent.com/85645485/128386298-1188f550-1b3c-4a2f-b098-4c654a2af1e0.png)
 ![Parent_Category_Outcomes](https://user-images.githubusercontent.com/85645485/128386303-9ffd72ed-4993-4034-a551-bbdfcdc6bd7b.png)
 ![Theater_Outcomes_vs_Launch](https://user-images.githubusercontent.com/85645485/128386305-227e870a-fc18-4c7e-a7e3-d95d1a829071.png)
 ### Analysis of Outcomes Based on Goals
+---
 
 ### Challenges and Difficulties Encountered
+---
 
 ## Results
 1. Two conclusions are made about the Theater Outcomes by Launch Date (2 pt).
