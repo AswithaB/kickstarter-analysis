@@ -49,9 +49,11 @@ The Kickstarter dataset has some extreme data points in the Goal/Pledged amount,
 1. The below chart *Parent Category Outcomes* is generated to see which parent categories performed well and which ones did not.
 ![Parent_Category_Outcomes](https://user-images.githubusercontent.com/85645485/128386303-9ffd72ed-4993-4034-a551-bbdfcdc6bd7b.png)
 
+2. The category outcomes can be analysed even more by using filters of different countries and also sub-categories. The following is one such visualization for Great Britan Catergory Outcomes.
 ![GB_Category_Outcomes](https://user-images.githubusercontent.com/85645485/128403245-f329c1f4-984e-453b-86a3-e22281b0bfb4.png)
 
+3. Using the Kickstarter Dataset, we can calculate the mean, median, variance, and standard deviation using the statisctics formulae. The below table is one such exsple of descriptive statistics.
 <img width="502" alt="Descriptive_Statistics" src="https://user-images.githubusercontent.com/85645485/128403242-0ef3210d-0145-415d-8cc7-5c354b806815.png">
 ---
 
->Thanks for reading me!😊
+>Thank you!😊
