@@ -17,6 +17,9 @@ You’ll then submit a written report based on your analysis and the visualizati
 ### Analysis of Outcomes Based on Launch Date
 ![Theater_Outcomes_vs_Launch](/Users/aswitha/Desktop/Data_Analytics/Analysis_Projects/Project1/Challenge1/Resources/Theater_Outcomes_vs_Launch.png)
 
+![Outcomes_vs_Goals](https://user-images.githubusercontent.com/85645485/128386298-1188f550-1b3c-4a2f-b098-4c654a2af1e0.png)
+![Parent_Category_Outcomes](https://user-images.githubusercontent.com/85645485/128386303-9ffd72ed-4993-4034-a551-bbdfcdc6bd7b.png)
+![Theater_Outcomes_vs_Launch](https://user-images.githubusercontent.com/85645485/128386305-227e870a-fc18-4c7e-a7e3-d95d1a829071.png)
 ### Analysis of Outcomes Based on Goals
 
 ### Challenges and Difficulties Encountered
