@@ -46,7 +46,8 @@ The Kickstarter dataset has some extreme data points in the Goal/Pledged amount,
   - The Kickstarter dataset has some extreme data points in the Goal/Pledged amount, which are outliers and are not representing the data we require to analze for Louise's Play.
 
 - What are some other possible tables and/or graphs that we could create?
-- Recommendation for additional tables or graphs
+1. The below chart *Parent Category Outcomes* is generated to see which parent categories performed well and which ones did not.
 ![Parent_Category_Outcomes](https://user-images.githubusercontent.com/85645485/128386303-9ffd72ed-4993-4034-a551-bbdfcdc6bd7b.png)
 ---
->Thanks for reading me!
+
+>Thanks for reading me!😊
